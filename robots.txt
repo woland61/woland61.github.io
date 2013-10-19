@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://woland61.github.io/sitemap.xml 
+Sitemap: http://woland.pp.ua/sitemap.xml 
