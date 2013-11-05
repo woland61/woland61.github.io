@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Мій тестовий Октопрес]]></title>
-  <link href="http://woland.pp.ua/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Чтиво | Мій тестовий Октопрес]]></title>
+  <link href="http://woland.pp.ua/blog/categories/chtivo/atom.xml" rel="self"/>
   <link href="http://woland.pp.ua/"/>
   <updated>2013-11-05T10:30:23+02:00</updated>
   <id>http://woland.pp.ua/</id>
